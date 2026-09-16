@@ -1,57 +1,74 @@
 # iCloud Fix Sync Platinum
 
-Windows-инструмент для исправления входа и синхронизации iCloud после исследованиеа блокировки на iPhone и iPad.
+**Apple ID sign-in & sync repair after service procedures — Windows**
 
-> [!WARNING]
-> Все действия выполняются на ваш страх и риск. Разработчик не несет ответственности за потерю данных, повреждение устройства или юридические последствия.
+[![Latest release](https://img.shields.io/github/v/release/smartmaster35rus-dev/iCloud-Fix-Sync-Platinum-win?label=Windows&style=for-the-badge)](https://github.com/smartmaster35rus-dev/iCloud-Fix-Sync-Platinum-win/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=for-the-badge&logo=windows)](https://github.com/smartmaster35rus-dev/iCloud-Fix-Sync-Platinum-win/releases)
+[![Website](https://img.shields.io/badge/Site-smartmaster35rus--activator.ru-00c853?style=for-the-badge)](https://smartmaster35rus-activator.ru/)
 
 <p align="center">
-  <img src="screenshot.png" alt="iCloud Fix Sync Platinum" width="800"/>
+
+[в¬‡пёЏ Download latest release](https://github.com/smartmaster35rus-dev/iCloud-Fix-Sync-Platinum-win/releases/latest) В· [рџЄџ macOS build](https://github.com/smartmaster35rus-dev/iCloud-Fix-Sync-Platinum-mac/releases/latest) В· [рџЊђ Activator site](https://smartmaster35rus-activator.ru/compatible.php)
+
 </p>
 
-## Возможности
+---
 
-- **Проверка регистрации** — ручная проверка статуса устройства на сервере в любой момент
-- **Автоопределение устройства** — модель, серийный номер, IMEI, UDID, версия iOS, регион и статус
-- **Быстрые действия** — перезагрузка, выключение, выход из Recovery, блокировка OTA-обновлений, сброс
-- **Список поддерживаемых моделей** — актуальная таблица с сервера
-- **Автообновление** — проверка и установка новых версий при запуске
-- **Чейнджлог с GitHub** — список изменений загружается напрямую с GitHub Releases
-- **Инженерное меню** (Ctrl+Shift+F11) — расширенные настройки для опытных пользователей
-- **Поддержка языков** — английский, русский, испанский
+## рџ‡·рџ‡є Рћ РїСЂРѕРіСЂР°РјРјРµ
 
-## Системные требования
+**iCloud Fix Sync Platinum (Windows)** — восстановление входа и синхронизации iCloud после сервисных процедур: iMessage, FaceTime, App Store, донорский backup-мастер, проверка регистрации.
 
-- **ОС:** Windows 10 (build 19041+) / Windows 11
-- **Обязательно:** [3uTools](http://www.3u.com/) + iTunes из состава 3uTools (НЕ из Microsoft Store)
-- USB-кабель для подключения устройства
+## рџ‡¬рџ‡§ About
 
-## Поддерживаемые устройства
+Windows tool to repair Apple ID sign-in and iCloud sync after service workflows. Device auto-detect, server registration check, quick actions, RU / EN / ES.
 
-| Тип | Модели |
-|-----|--------|
-| **iPhone** | 6s / 6s Plus / SE (1st) / 7 / 7 Plus / 8 / 8 Plus / X / XR / XS / XS Max / 11 / 11 Pro / 11 Pro Max / SE (2nd) / 12 / 12 mini / 12 Pro / 12 Pro Max / 13 / 13 mini / 13 Pro / 13 Pro Max / SE (3rd) / 14 / 14 Plus / 14 Pro / 14 Pro Max / 15 / 15 Plus / 15 Pro / 15 Pro Max / 16 / 16 Plus / 16 Pro / 16 Pro Max / 16e / 17 / 17 Pro / 17 Pro Max / 17 Air |
-| **iPad** | Air 2 / mini 4 / Pro 9.7 / Pro 12.9 (1st/2nd) / 5 / 6 / 7 / Pro 10.5 / Pro 11 (все поколения) / Pro 12.9 (3rd+) / Air 3 / Air 4 / Air 5 / Air 6 (M2) / Air 7 (M3) / mini 5 / mini 6 / mini 7 (A17 Pro) / M4 / M5 |
-| **iPod** | 6 / 7 |
+---
 
-### Поддержка iOS
+## вњЁ Key features
 
-| Статус | Версии |
-|--------|--------|
-| Поддерживаются | iOS 12 — последняя |
+| Feature | Description |
+|---------|-------------|
+| 🔧 **iCloud sync fix** | Restore sign-in and sync after service |
+| 📋 **Registration check** | Server device status |
+| 📱 **Device info** | Model, SN, IMEI, UDID, iOS, region |
+| ⚡ **Quick actions** | Reboot, shutdown, Recovery, OTA block, erase |
+| 🔄 **Updates** | GitHub Releases changelog |
+| 🌍 **i18n** | Русский · English · Español |
 
-> [!NOTE]
-> Инструмент предназначен для исправления входа iCloud после процедуры исследованиеа блокировки.
+---
 
-## Быстрый старт
+## в¬‡пёЏ Download
 
-1. Установите 3uTools + iTunes из комплекта 3uTools
-2. Подключите устройство по USB (устройство должно быть активировано, Wi-Fi подключён)
-3. Запустите iCloud Fix Sync Platinum
-4. Дождитесь определения устройства
-5. Нажмите **Fix iCloud Start**
-6. Следуйте инструкциям на экране
+**[Releases](https://github.com/smartmaster35rus-dev/iCloud-Fix-Sync-Platinum-win/releases/latest)**
 
-## Контакты
+> Use only on devices you are permitted to service. Run Windows builds as Administrator when required.
 
-- Поддержка: [t.me/SmartMaster35Rus](https://t.me/SmartMaster35Rus)
+## рџ“‹ Requirements
+
+- **Windows 10 / 11** (64-bit)
+- **iOS 12+** (see in-app support list)
+- 3uTools / iTunes + Apple Mobile Device driver
+- USB, activated device with Wi‑Fi
+
+## рџ”— Related links
+
+| Resource | URL |
+|----------|-----|
+| macOS build | [iCloud-Fix-Sync-Platinum-mac](https://github.com/smartmaster35rus-dev/iCloud-Fix-Sync-Platinum-mac) |
+| Activator / support | [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php) |
+
+---
+
+## вљ–пёЏ Disclaimer
+
+РРЅСЃС‚СЂСѓРјРµРЅС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ **Р°РІС‚РѕСЂРёР·РѕРІР°РЅРЅРѕРіРѕ СЃРµСЂРІРёСЃР° Рё РёСЃСЃР»РµРґРѕРІР°РЅРёР№** РЅР° СѓСЃС‚СЂРѕР№СЃС‚РІР°С…, РєРѕС‚РѕСЂС‹РјРё РІС‹ РІР»Р°РґРµРµС‚Рµ РёР»Рё РёРјРµРµС‚Рµ РїСЂР°РІРѕ РѕР±СЃР»СѓР¶РёРІР°С‚СЊ.
+
+For **authorized service and research** on devices you own or may service.
+
+---
+
+<p align="center">
+
+**SmartMaster35Rus** В· [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
+
+</p>
