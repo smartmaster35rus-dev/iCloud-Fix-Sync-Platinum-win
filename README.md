@@ -8,23 +8,23 @@
 
 <p align="center">
 
-[в¬‡пёЏ Download latest release](https://github.com/smartmaster35rus-dev/iCloud-Fix-Sync-Platinum-win/releases/latest) В· [рџЄџ macOS build](https://github.com/smartmaster35rus-dev/iCloud-Fix-Sync-Platinum-mac/releases/latest) В· [рџЊђ Activator site](https://smartmaster35rus-activator.ru/compatible.php)
+[⬇️ Download latest release](https://github.com/smartmaster35rus-dev/iCloud-Fix-Sync-Platinum-win/releases/latest) · [🪟 macOS build](https://github.com/smartmaster35rus-dev/iCloud-Fix-Sync-Platinum-mac/releases/latest) · [🌐 Activator site](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
 
 ---
 
-## рџ‡·рџ‡є Рћ РїСЂРѕРіСЂР°РјРјРµ
+## 🇷🇺 О программе
 
 **iCloud Fix Sync Platinum (Windows)** — восстановление входа и синхронизации iCloud после сервисных процедур: iMessage, FaceTime, App Store, донорский backup-мастер, проверка регистрации.
 
-## рџ‡¬рџ‡§ About
+## 🇬🇧 About
 
 Windows tool to repair Apple ID sign-in and iCloud sync after service workflows. Device auto-detect, server registration check, quick actions, RU / EN / ES.
 
 ---
 
-## вњЁ Key features
+## ✨ Key features
 
 | Feature | Description |
 |---------|-------------|
@@ -37,20 +37,20 @@ Windows tool to repair Apple ID sign-in and iCloud sync after service workflows.
 
 ---
 
-## в¬‡пёЏ Download
+## ⬇️ Download
 
 **[Releases](https://github.com/smartmaster35rus-dev/iCloud-Fix-Sync-Platinum-win/releases/latest)**
 
 > Use only on devices you are permitted to service. Run Windows builds as Administrator when required.
 
-## рџ“‹ Requirements
+## 📋 Requirements
 
 - **Windows 10 / 11** (64-bit)
 - **iOS 12+** (see in-app support list)
 - 3uTools / iTunes + Apple Mobile Device driver
 - USB, activated device with Wi‑Fi
 
-## рџ”— Related links
+## 🔗 Related links
 
 | Resource | URL |
 |----------|-----|
@@ -59,9 +59,9 @@ Windows tool to repair Apple ID sign-in and iCloud sync after service workflows.
 
 ---
 
-## вљ–пёЏ Disclaimer
+## ⚖️ Disclaimer
 
-РРЅСЃС‚СЂСѓРјРµРЅС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ **Р°РІС‚РѕСЂРёР·РѕРІР°РЅРЅРѕРіРѕ СЃРµСЂРІРёСЃР° Рё РёСЃСЃР»РµРґРѕРІР°РЅРёР№** РЅР° СѓСЃС‚СЂРѕР№СЃС‚РІР°С…, РєРѕС‚РѕСЂС‹РјРё РІС‹ РІР»Р°РґРµРµС‚Рµ РёР»Рё РёРјРµРµС‚Рµ РїСЂР°РІРѕ РѕР±СЃР»СѓР¶РёРІР°С‚СЊ.
+Инструмент предназначен для **авторизованного сервиса и исследований** на устройствах, которыми вы владеете или имеете право обслуживать.
 
 For **authorized service and research** on devices you own or may service.
 
@@ -69,6 +69,6 @@ For **authorized service and research** on devices you own or may service.
 
 <p align="center">
 
-**SmartMaster35Rus** В· [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
+**SmartMaster35Rus** · [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
